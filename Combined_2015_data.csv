@@ -1,0 +1,319 @@
+plot_Year,plot_Month,plot_Name,subplot,quad,tree_Number,inv_Status,stemtype,species_Code,dbh,soundness,crownclass,height,note,treedamage
+2015,9,northnorth,1,null,1.1,IL,M,FRAAME,16,1,DC,null,"507WA, leaves gone",NONE
+2015,9,northnorth,1,null,1.2,IL,M,FRAAME,13.3,1,DC,null,"507WA, leaves gone",NONE
+2015,9,northnorth,1,null,2,IL,S,QUEMAC,9.4,1,DC,null,64BO-tree#other_study,NONE
+2015,9,northnorth,2,null,3,IL,S,QUEMAC,13,1,DC,null,67BO,NONE
+2015,9,northnorth,2,null,4,IL,S,QUEMAC,15.5,1,DC,null,68BO,NONE
+2015,9,northnorth,2,null,5.1,IL,M,QUEALB,10.7,1,DC,null,29WO,NONE
+2015,9,northnorth,1,null,5.2,IL,M,QUEALB,10.7,1,DC,null,29WO,NONE
+2015,9,northnorth,3,null,6,IL,S,ULMAME,4.1,1,I,null,null,NONE
+2015,9,northnorth,3,null,7,IL,S,QUEALB,7.1,1,DC,null,307WO,NONE
+2015,9,northnorth,3,null,8,IL,S,PRUSER,3,1,I,null,null,NONE
+2015,9,northnorth,3,null,9,IL,S,ULMAME,3.7,1,I,null,null,NONE
+2015,9,northnorth,4,null,10,IL,S,QUEMAC,10.6,1,DC,null,null,NONE
+2015,9,northnorth,4,null,11,IL,S,QUEMAC,8.3,1,DC,null,null,NONE
+2015,9,northnorth,4,null,12,IL,S,QUEMAC,6.3,1,DC,null,null,NONE
+2015,9,northnorth,5,null,13.1,IL,M,PRUVIR,3.2,1,O,null,null,none
+2015,9,northnorth,5,null,13.2,IL,M,PRUVIR,3,1,O,null,null,none
+2015,9,northnorth,5,null,13.3,IL,M,PRUVIR,2.8,1,O,null,null,none
+2015,9,northnorth,5,null,13.4,IL,M,PRUVIR,3.1,1,O,null,null,none
+2015,9,northnorth,5,null,13.5,IL,M,PRUVIR,3,1,O,null,null,none
+2015,9,northnorth,5,null,14,IL,S,POPGRA,5,2,I,null,"trunk bark split, 50 - 100 cm",none
+2015,9,northnorth,5,null,15,IL,S,QUEALB,19.9,1,DC,null,36WO,none
+2015,9,northnorth,5,null,16,IL,S,QUERUB,15.7,1,DC,null,50NRO,none
+2015,9,northnorth,6,null,17,IL,S,QUEMAC,6.8,1,DC,null,73BO,none
+2015,9,northnorth,6,null,18.1,IL,M,QUEMAC,7,1,DC,null,72BO,none
+2015,9,northnorth,6,null,18.2,IL,M,QUEMAC,6.4,1,DC,null,72BO,none
+2015,9,northnorth,7,null,19,IL,S,ACESAC,6.9,1,DC,null,65M,none
+2015,9,northnorth,7,null,20,IL,S,QUEALB,13.8,1,DC,null,33WO,none
+2015,9,northnorth,7,null,21,IL,S,QUEMAC,10.6,1,DC,null,69BO,none
+2015,9,northnorth,7,null,22,IL,S,QUEMAC,6,1,I,null,70BO,none
+2015,9,northnorth,7,null,23,IL,S,QUEALB,11.4,1,DC,null,37WO,none
+2015,9,northnorth,7,null,24,IL,S,ACESAC,7.6,1,DC,null,75M,none
+2015,9,northnorth,7,null,25.1,IL,M,QUEALB,15,1,DC,null,31WO,none
+2015,9,northnorth,7,null,25.2,IL,M,QUEALB,12.6,1,DC,null,31WO,none
+2015,9,northnorth,8,null,26,IL,S,QUEMAC,4.5,1,I,null,null,none
+2015,9,northnorth,8,null,27.1,IL,M,TILAME,13.6,1,DC,null,null,none
+2015,9,northnorth,8,null,27.2,IL,M,TILAME,12.9,1,DC,null,null,none
+2015,9,northnorth,8,null,27.3,IL,M,TILAME,17.1,1,DC,null,null,none
+2015,9,northnorth,8,null,27.4,IL,M,TILAME,14.7,1,DC,null,null,none
+2015,9,northnorth,8,null,28,IL,S,QUEMAC,4.3,1,O,null,null,none
+2015,9,northnorth,8,null,29,IL,S,QUEMAC,3.9,1,O,null,null,none
+2015,9,northnorth,8,null,30,IL,S,QUEMAC,4.1,1,O,null,null,none
+2015,9,northnorth,8,null,31,IL,S,QUEMAC,12.2,1,DC,null,null,none
+2015,9,northnorth,9,null,32,IL,S,QUEALB,13.8,1,DC,null,43WO,none
+2015,9,northnorth,9,null,33.1,IL,M,QUEMAC,6.7,1,I,null,82BO,none
+2015,9,northnorth,9,null,33.2,IL,M,QUEMAC,6.4,1,I,null,82BO,none
+2015,9,northnorth,9,null,34,IL,S,QUEMAC,8.4,1,I,null,84BO,none
+2015,9,northnorth,9,null,35,IL,S,QUEMAC,6,1,I,null,81BO,none
+2015,9,northnorth,9,null,36.1,IL,M,QUEMAC,6.1,1,I,null,79BO,none
+2015,9,northnorth,9,null,36.2,IL,M,QUEMAC,6,1,I,null,79BO,none
+2015,9,northnorth,10,null,37,IL,S,ACESAC,5.9,1,DC,null,null,none
+2015,9,northnorth,10,null,38,IL,S,FRAAME,5,1,I,null,null,none
+2015,9,northnorth,10,null,39.1,IL,M,QUEMAC,3.8,1,O,null,null,none
+2015,9,northnorth,10,null,39.2,IL,M,QUEMAC,4,1,O,null,null,none
+2015,9,northnorth,10,null,40,IL,S,ACESAC,4.1,1,I,null,null,none
+2015,9,northnorth,10,null,41,IL,S,ULMAME,15.4,1,DC,null,null,none
+2015,9,northnorth,11,null,42,IL,S,QUEMAC,6.6,1,DC,null,null,none
+2015,9,northnorth,11,null,43,IL,S,ULMAME,5,1,I,null,null,none
+2015,9,northnorth,12,null,44,IL,S,QUEALB,13.3,1,DC,null,null,none
+2015,9,northnorth,12,null,45,IL,S,ULMAME,2.5,1,O,null,null,none
+2015,9,northnorth,12,null,46,IL,S,QUERUB,18.6,1,DC,null,null,none
+2015,9,northnorth,12,null,47.1,IL,M,ACESAC,10,1,DC,null,null,none
+2015,9,northnorth,12,null,47.2,IL,M,ACESAC,3.5,1,DC,null,null,none
+2015,9,northnorth,12,null,47.3,IL,M,ACESAC,20.7,1,DC,null,null,none
+2015,9,northnorth,13,null,48,IL,S,CARCOR,3.9,1,I,null,null,none
+2015,9,northnorth,13,null,49,IL,S,QUEALB,19,1,DC,null,50WO,none
+2015,9,northnorth,13,null,50,IL,S,QUEMAC,5.8,1,O,null,86BO,none
+2015,9,northnorth,14,null,51.1,IL,M,QUEALB,15,1,DC,null,305WO,none
+2015,9,northnorth,14,null,51.2,IL,M,QUEALB,9.8,1,DC,null,305WO,none
+2015,9,northnorth,14,null,51.3,IL,M,QUEALB,13.4,1,DC,null,305WO,none
+2015,9,northnorth,14,null,52,IL,S,QUEALB,7.5,1,DC,null,null,none
+2015,9,northnorth,14,null,53,IL,S,QUEALB,13.9,1,DC,null,45WO,none
+2015,9,northnorth,14,null,54.1,IL,M,QUEALB,14.5,1,DC,null,46WO,none
+2015,9,northnorth,15,null,54.2,IL,M,QUEALB,15.4,1,DC,null,46WO,none
+2015,9,northnorth,15,null,55.1,IL,M,ACESAC,4.2,1,I,null,null,none
+2015,9,northnorth,15,null,55.2,IL,M,ACESAC,3,1,I,null,null,none
+2015,9,northnorth,15,null,56,IL,S,PRUVIR,3.5,1,O,null,null,none
+2015,9,northnorth,15,null,57,IL,S,QUEMAC,3.7,1,O,null,null,none
+2015,9,northnorth,15,null,58,IL,S,QUEMAC,4.1,1,P,null,null,none
+2015,9,northnorth,16,null,59,IL,S,QUEMAC,5.5,1,P,null,null,none
+2015,9,northnorth,16,null,60.1,IL,M,QUEALB,11,1,DC,null,null,none
+2015,9,northnorth,16,null,60.2,IL,M,QUEALB,15.6,1,DC,null,null,none
+2015,9,northsouth,1,null,1.1,IL,M,FRAAME,15.9,1,DC,null,69WA-tree#other_study,NONE
+2015,9,northsouth,1,null,1.2,IL,M,FRAAME,10,1,DC,null,69WA,NONE
+2015,9,northsouth,1,null,2,IL,S,PRUSER,4.7,1,I,null,11BC,NONE
+2015,9,northsouth,1,null,3.1,IL,M,OSTVIR,9,1,DC,null,57IW,NONE
+2015,9,northsouth,1,null,3.2,IL,M,OSTVIR,9.8,1,DC,null,57IW,NONE
+2015,9,northsouth,1,null,3.3,IL,M,OSTVIR,7.5,1,DC,null,57IW,NONE
+2015,9,northsouth,1,null,3.4,IL,M,OSTVIR,4.2,1,DC,null,57IW,NONE
+2015,9,northsouth,1,null,3.5,IL,M,OSTVIR,3,1,DC,null,57IW,NONE
+2015,9,northsouth,2,null,4,IL,S,RHACAT,3.5,1,O,null,199SM,NONE
+2015,9,northsouth,3,null,5.1,IL,M,ACESAC,4.9,1,O,null,null,NONE
+2015,9,northsouth,3,null,5.2,IL,M,ACESAC,4.7,1,O,null,null,NONE
+2015,9,northsouth,3,null,6.1,IL,M,FRAAME,14.5,1,DC,null,null,NONE
+2015,9,northsouth,3,null,6.2,IL,M,FRAAME,12.9,1,DC,null,null,NONE
+2015,9,northsouth,4,null,7.1,IL,M,FRAAME,17.9,1,DC,null,virginia creeper vines,NONE
+2015,9,northsouth,4,null,7.2,IL,M,FRAAME,15.7,1,DC,null,virginia creeper vines,NONE
+2015,9,northsouth,4,null,7.3,IL,M,FRAAME,7.4,1,DC,null,virginia creeper vines,NONE
+2015,9,northsouth,4,null,7.4,IL,M,FRAAME,5,1,DC,null,virginia creeper vines,NONE
+2015,9,northsouth,4,null,8,IL,S,ACENEG,2.8,1,O,null,null,NONE
+2015,9,northsouth,4,null,9.1,IL,M,FRAAME,9.3,1,DC,null,null,NONE
+2015,9,northsouth,4,null,9.2,IL,M,FRAAME,6.2,1,DC,null,null,NONE
+2015,9,northsouth,5,null,10,IL,S,JUGNIG,2.8,1,O,null,null,NONE
+2015,9,northsouth,5,null,11,IL,S,QUEMAC,6.7,1,I,null,199BO,NONE
+2015,9,northsouth,6,null,12,IL,S,FRAAME,8.7,1,DC,null,66WA,NONE
+2015,9,northsouth,6,null,13,IL,S,ACENEG,2.8,1,O,null,null,NONE
+2015,9,northsouth,6,null,14,IL,S,FRAAME,18.8,1,DC,null,70WA,NONE
+2015,9,northsouth,6,null,15,IL,S,PRUVIR,2.8,1,O,null,null,NONE
+2015,9,northsouth,6,null,16,IL,S,JUGNIG,12,1,DC,null,446BW,NONE
+2015,9,northsouth,7,null,17.1,IL,M,FRAAME,17.6,1,DC,null,null,NONE
+2015,9,northsouth,7,null,17.2,IL,M,FRAAME,13.9,1,DC,null,null,NONE
+2015,9,northsouth,7,null,18,IL,S,FRAAME,18.7,1,DC,null,"leaves gone, 67WA",NONE
+2015,9,northsouth,7,null,19.1,IL,M,FRAAME,17.9,1,DC,null,few leaves,NONE
+2015,9,northsouth,7,null,19.2,IL,M,FRAAME,12.7,1,DC,null,few leaves,NONE
+2015,9,northsouth,7,null,20.1,IL,M,FRAAME,9.9,1,DC,null,null,NONE
+2015,9,northsouth,7,null,20.2,IL,M,FRAAME,8.8,1,DC,null,null,NONE
+2015,9,northsouth,7,null,21,IL,S,ACESAC,4.2,1,O,null,null,NONE
+2015,9,northsouth,8,null,22,IL,S,FRAAME,3.2,1,O,null,null,NONE
+2015,9,northsouth,8,null,23,IL,S,ULMAME,3.1,1,O,null,null,NONE
+2015,9,northsouth,8,null,24.1,IL,M,FRAAME,9.6,1,DC,null,most leaves gone,NONE
+2015,9,northsouth,8,null,24.2,IL,M,FRAAME,7.4,1,DC,null,most leaves gone,NONE
+2015,9,northsouth,8,null,25,IL,S,ACESAC,5.6,1,I,null,null,NONE
+2015,9,northsouth,9,null,26,IL,S,QUEALB,16.1,1,DC,null,171WO,NONE
+2015,9,northsouth,10,null,27,IL,S,JUGNIG,4.7,1,I,null,50BW,NONE
+2015,9,northsouth,10,null,28,IL,S,FRAAME,8.2,1,DC,null,512WA,NONE
+2015,9,northsouth,11,null,29.1,IL,M,ACENEG,4.2,1,DC,null,null,NONE
+2015,9,northsouth,11,null,29.2,IL,M,ACENEG,8,1,DC,null,null,NONE
+2015,9,northsouth,11,null,29.3,IL,M,ACENEG,3.7,1,DC,null,null,NONE
+2015,9,northsouth,11,null,30,IL,S,ULMAME,3.5,1,O,null,null,NONE
+2015,9,northsouth,12,null,31,IL,S,FRAAME,13.3,1,DC,null,null,NONE
+2015,9,northsouth,12,null,32.1,IL,M,FRAAME,13,1,DC,null,null,NONE
+2015,9,northsouth,12,null,32.2,IL,M,FRAAME,14.7,1,DC,null,null,NONE
+2015,9,northsouth,12,null,32.3,IL,M,FRAAME,10,1,DC,null,null,NONE
+2015,9,northsouth,12,null,33,IL,S,ULMAME,3.1,1,O,null,null,NONE
+2015,9,northsouth,12,null,34.1,IL,M,FRAAME,8,1,DC,null,null,NONE
+2015,9,northsouth,12,null,34.2,IL,M,FRAAME,17.6,1,DC,null,null,NONE
+2015,9,northsouth,12,null,35.1,IL,M,FRAAME,17.7,1,DC,null,null,NONE
+2015,9,northsouth,12,null,35.2,IL,M,FRAAME,11.8,1,DC,null,null,NONE
+2015,9,northsouth,12,null,35.3,IL,M,FRAAME,10.9,1,DC,null,null,NONE
+2015,9,northsouth,12,null,35.4,IL,M,FRAAME,7.4,1,DC,null,null,NONE
+2015,9,northsouth,12,null,36.2,IL,M,FRAAME,9.8,1,DC,null,null,NONE
+2015,9,northsouth,12,null,36.2,IL,M,FRAAME,15.4,1,DC,null,null,NONE
+2015,9,northsouth,12,null,37.1,IL,M,FRAAME,5,1,DC,null,null,NONE
+2015,9,northsouth,12,null,37.2,IL,M,FRAAME,18.7,1,DC,null,null,NONE
+2015,9,northsouth,13,null,38.1,IL,M,ACESAC,5.9,1,I,null,202SM,NONE
+2015,9,northsouth,13,null,38.2,IL,M,ACESAC,8.4,1,I,null,202SM,NONE
+2015,9,northsouth,13,null,39,IL,S,ULMAME,4,1,O,null,null,NONE
+2015,9,northsouth,13,null,40.1,IL,M,RHACAT,4.1,1,O,null,null,NONE
+2015,9,northsouth,13,null,40.2,IL,M,RHACAT,4,1,O,null,null,NONE
+2015,9,northsouth,13,null,41.1,IL,M,FRAAME,7.8,1,DC,null,71WA,NONE
+2015,9,northsouth,13,null,41.2,IL,M,FRAAME,12.3,1,DC,null,71WA,NONE
+2015,9,northsouth,13,null,42.1,IL,M,FRAAME,14,1,DC,null,72WA,NONE
+2015,9,northsouth,13,null,42.2,IL,M,FRAAME,12.6,1,DC,null,72WA,NONE
+2015,9,northsouth,13,null,43,IL,S,ACENEG,3.9,1,O,null,main stem may be dead,NONE
+2015,9,northsouth,13,null,44.1,IL,M,FRAAME,10.6,1,DC,null,73WA,NONE
+2015,9,northsouth,13,null,44.2,IL,M,FRAAME,8.8,1,DC,null,73WA,NONE
+2015,9,northsouth,13,null,44.3,ID,M,FRAAME,4,1,DC,null,73WA,NONE
+2015,9,northsouth,14,null,45.1,IL,M,FRAAME,14.6,1,DC,null,76WA,NONE
+2015,9,northsouth,14,null,45.2,IL,M,FRAAME,15.7,1,DC,null,76WA,NONE
+2015,9,northsouth,14,null,46.1,IL,M,FRAAME,12,1,DC,null,74WA,NONE
+2015,9,northsouth,14,null,46.2,IL,M,FRAAME,6.1,1,DC,null,74WA,NONE
+2015,9,northsouth,15,null,47,ID,S,FRAAME,3.4,1,O,null,null,NONE
+2015,9,northsouth,15,null,48.1,IL,M,FRAAME,4.5,1,DC,null,"75WA, most leaves gone",NONE
+2015,9,northsouth,15,null,48.2,IL,M,FRAAME,18.1,1,DC,null,"75WA, most leaves gone",NONE
+2015,9,northsouth,15,null,49,ID,M,FRAAME,5.6,2,I,null,bark falling off,NA
+2015,9,northsouth,16,null,50,ID,M,FRAAME,4.5,2,I,null,bark falling off,NA
+2015,9,northsouth,16,null,51.1,IL,M,ACENEG,8.3,1,I,null,null,NONE
+2015,9,northsouth,16,null,51.2,IL,M,ACENEG,7.5,1,I,null,null,NONE
+2015,9,northsouth,16,null,52.1,IL,M,FRAAME,15.15,1,DC,null,null,NONE
+2015,9,northsouth,16,null,52.2,IL,M,FRAAME,13.5,1,DC,null,null,NONE
+2015,9,northsouth,16,null,53.1,IL,M,FRAAME,13.1,1,DC,null,null,NONE
+2015,9,northsouth,16,null,53.2,IL,M,FRAAME,15.1,1,DC,null,null,NONE
+2015,9,northsouth,16,null,53.3,IL,M,FRAAME,10.2,1,DC,null,null,NONE
+2015,9,southnorth,1,null,1.1,IL,M,FRAAME,7.8,1,DC,null,439A-tree#other_study,NONE
+2015,9,southnorth,1,null,1.2,IL,M,FRAAME,19,1,DC,null,439A,NONE
+2015,9,southnorth,1,null,2.1,IL,M,ACERUB,3.2,1,I,null,trunk bark missing in places,NA
+2015,9,southnorth,1,null,2.2,IL,M,ACERUB,5.25,1,I,null,trunk bark missing in places,NA
+2015,9,southnorth,1,null,2.3,IL,M,ACERUB,3.75,1,I,null,trunk bark missing in places,NA
+2015,9,southnorth,2,null,3,IL,S,QUERUB,4.8,1,I,null,77RO,NA
+2015,9,southnorth,2,null,4,IL,S,ACEGIN,5.5,1,I,null,510BW,NONE
+2015,9,southnorth,3,null,5,IL,S,JUGNIG,4.8,1,O,null,184BW,NONE
+2015,9,southnorth,3,null,6.1,IL,M,ACEGIN,4,1,O,null,null,NONE
+2015,9,southnorth,4,null,6.2,IL,M,ACEGIN,3.65,1,O,null,null,NONE
+2015,9,southnorth,4,null,6.3,IL,M,ACEGIN,2.8,1,O,null,null,NONE
+2015,9,southnorth,4,null,6.4,IL,M,ACEGIN,2.7,1,O,null,null,NONE
+2015,9,southnorth,4,null,7.1,IL,M,FRAAME,8.1,1,DC,null,237WA,NONE
+2015,9,southnorth,4,null,7.2,IL,M,FRAAME,8.8,1,DC,null,237WA,NONE
+2015,9,southnorth,4,null,8,IL,S,JUGNIG,3.8,1,O,null,186BW,NONE
+2015,9,southnorth,4,null,9,IL,S,JUGNIG,4.5,1,O,null,null,NONE
+2015,9,southnorth,5,null,10.1,IL,M,ACERUB,6.4,1,I,null,missing bark,NA
+2015,9,southnorth,5,null,10.2,IL,M,ACERUB,3.1,1,I,null,missing bark,NA
+2015,9,southnorth,5,null,10.3,IL,M,ACERUB,4.8,1,I,null,missing bark,NA
+2015,9,southnorth,5,null,10.4,IL,M,ACERUB,3.8,1,I,null,missing bark,NA
+2015,9,southnorth,5,null,10.5,IL,M,ACERUB,2.9,1,I,null,missing bark,NA
+2015,9,southnorth,5,null,11,IL,S,ACENEG,4.9,2,O,null,missing bark,NA
+2015,9,southnorth,5,null,12.1,IL,M,JUGNIG,4.1,1,O,null,434BW,NONE
+2015,9,southnorth,5,null,12.2,IL,M,JUGNIG,6.35,1,O,null,434BW,NONE
+2015,9,southnorth,5,null,13,IL,S,FRAAME,10.75,1,DC,null,"bitterssweet vine covering tree, leaves all gone",NONE
+2015,9,southnorth,5,null,14,IL,S,JUGNIG,4,1,O,null,null,NONE
+2015,9,southnorth,6,null,15,ID,S,FRAAME,3.95,2,O,null,fungus on bark,NONE
+2015,9,southnorth,6,null,16.1,IL,M,ACERUB,4.2,1,DC,null,null,NONE
+2015,9,southnorth,6,null,16.2,IL,M,ACERUB,6.2,1,DC,null,null,NONE
+2015,9,southnorth,6,null,16.3,IL,M,ACERUB,5,1,DC,null,null,NONE
+2015,9,southnorth,6,null,17,IL,S,JUGNIG,5.7,1,I,null,null,NONE
+2015,9,southnorth,6,null,18,IL,S,JUGNIG,10.3,1,DC,null,took dbh below knot,NONE
+2015,9,southnorth,7,null,19,IL,S,ACENEG,5.3,2,O,null,"missing bark, main trunk dead",NA
+2015,9,southnorth,7,null,20.1,IL,M,FRAAME,8.8,1,DC,null,180WA,NONE
+2015,9,southnorth,7,null,20.2,IL,M,FRAAME,9.8,1,DC,null,180WA,NONE
+2015,9,southnorth,7,null,20.3,IL,M,FRAAME,9.9,1,DC,null,180WA,NONE
+2015,9,southnorth,7,null,21.1,IL,M,FRAAME,6.9,1,DC,null,"leaves gone, 241WA",NONE
+2015,9,southnorth,7,null,21.2,IL,M,FRAAME,8.6,1,DC,null,"leaves gone, 241WA",NONE
+2015,9,southnorth,7,null,21.3,IL,M,FRAAME,8.6,1,DC,null,"leaves gone, 241WA",NONE
+2015,9,southnorth,7,null,22.1,IL,M,FRAAME,13.7,1,DC,null,481WA,NONE
+2015,9,southnorth,7,null,22.2,IL,M,FRAAME,13.4,1,DC,null,481WA,NONE
+2015,9,southnorth,8,null,23,IL,S,JUGNIG,7,1,I,null,191BW,NONE
+2015,9,southnorth,8,null,24,IL,S,FRAAME,6.65,1,I,null,"DBH below stem break, 239WA",NONE
+2015,9,southnorth,9,null,25.1,IL,M,ACERUB,3.1,1,I,null,DBH below stem break,NONE
+2015,9,southnorth,9,null,25.2,IL,M,ACERUB,6.9,1,I,null,DBH below stem break,NONE
+2015,9,southnorth,9,null,25.3,IL,M,ACERUB,4.1,1,I,null,DBH below stem break,NONE
+2015,9,southnorth,9,null,26,IL,S,JUGNIG,6.4,1,O,null,438BW,NONE
+2015,9,southnorth,9,null,27,IL,S,ACENEG,3.7,1,O,null,covered by vines,NA
+2015,9,southnorth,10,null,28,IL,S,JUGNIG,6.1,1,I,null,436BW,NONE
+2015,9,southnorth,10,null,29,IL,S,JUGNIG,3.8,1,O,null,covered by vine,NA
+2015,9,southnorth,10,null,30,IL,S,ACENEG,2.7,1,O,null,"tag missing, remove vine",NA
+2015,9,southnorth,10,null,31,IL,S,FRAAME,6.8,1,I,null,441WA,NONE
+2015,9,southnorth,10,null,32,IL,S,FRAAME,17.1,1,DC,null,"leaves gone, 442WA",NONE
+2015,9,southnorth,10,null,33.1,IL,M,ACERUB,6.4,2,I,null,missing bark,NA
+2015,9,southnorth,10,null,33.2,IL,M,ACERUB,7.8,2,I,null,missing bark,NA
+2015,9,southnorth,10,null,33.3,IL,M,ACERUB,3.6,2,I,null,missing bark,NA
+2015,9,southnorth,11,null,34.1,IL,M,ACERUB,11.4,1,DC,null,"missing bark, 76RM",NA
+2015,9,southnorth,11,null,34.2,IL,M,ACERUB,2.8,1,DC,null,"missing bark, 76RM",NA
+2015,9,southnorth,11,null,34.3,IL,M,ACERUB,6.1,1,DC,null,"missing bark, 76RM",NA
+2015,9,southnorth,11,null,35,IL,S,ACESAC,4.1,1,I,null,74SM,NONE
+2015,9,southnorth,12,null,36,IL,S,JUGNIG,10.15,1,DC,null,196BW,NONE
+2015,9,southnorth,13,null,37.1,IL,M,ACERUB,8.7,1,DC,null,87RM,NONE
+2015,9,southnorth,13,null,37.2,IL,M,ACERUB,6.4,1,DC,null,87RM,NONE
+2015,9,southnorth,13,null,38.1,IL,M,ACERUB,5.65,1,I,null,74RM,NONE
+2015,9,southnorth,13,null,38.2,IL,M,ACERUB,5.25,1,I,null,74RM,NONE
+2015,9,southnorth,13,null,38.3,IL,M,ACERUB,6.35,1,I,null,74RM,NONE
+2015,9,southnorth,14,null,39,IL,M,ACEGIN,4.1,1,I,null,null,NONE
+2015,9,southnorth,14,null,40.1,IL,M,ACERUB,4.6,1,I,null,75RM,NONE
+2015,9,southnorth,14,null,40.2,IL,M,ACERUB,2.9,1,I,null,75RM,NONE
+2015,9,southnorth,14,null,40.3,IL,M,ACERUB,3.85,1,I,null,75RM,NONE
+2015,9,southnorth,16,null,41,IL,S,JUGNIG,4.9,1,O,null,195BW,NONE
+2015,9,southnorth,16,null,42,IL,S,FRAAME,12.5,1,DC,null,244WA,NONE
+2015,9,southsouth,1,null,1,IL,S,JUGNIG,12.5,1,DC,null,416BW-tree#otherstudy,NONE
+2015,9,southsouth,1,null,2,IL,S,FRAAME,7,1,DC,null,"390WA, no leaves left",NONE
+2015,9,southsouth,2,null,3,IL,S,JUGNIG,14.1,1,DC,null,463BW,NONE
+2015,9,southsouth,2,null,4,IL,S,FRAAME,3.05,1,O,null,null,NONE
+2015,9,southsouth,2,null,5,IL,S,FRAAME,9.9,1,DC,null,"391WA, connected?",NONE
+2015,9,southsouth,2,null,6,IL,S,ACESAC,4.5,1,I,null,null,NONE
+2015,9,southsouth,2,null,7.1,IL,M,FRAAME,16.25,1,DC,null,"306WA, lvs gone",NONE
+2015,9,southsouth,2,null,7.2,IL,M,FRAAME,12.45,1,DC,null,"306WA, lvs gone",NONE
+2015,9,southsouth,2,null,7.3,IL,M,FRAAME,6.8,1,DC,null,"306WA, lvs gone",NONE
+2015,9,southsouth,3,null,8,IL,S,FRAAME,3.5,1,O,null,561WA,NONE
+2015,9,southsouth,3,null,9,IL,S,JUGNIG,11.9,1,DC,null,464BW,NONE
+2015,9,southsouth,3,null,10.1,IL,M,FRAAME,6.75,1,I,null,556WA,NONE
+2015,9,southsouth,3,null,10.2,IL,M,FRAAME,5.35,1,I,null,556WA,NONE
+2015,9,southsouth,3,null,11.1,IL,M,FRAAME,3.55,1,I,null,555WA,NONE
+2015,9,southsouth,3,null,11.2,IL,M,FRAAME,7.3,1,I,null,555WA,NONE
+2015,9,southsouth,4,null,12.1,IL,M,FRAAME,8.4,1,DC,null,398WA,NONE
+2015,9,southsouth,4,null,12.2,IL,M,FRAAME,18.3,1,DC,null,398WA,NONE
+2015,9,southsouth,5,null,13,IL,S,FRAAME,13.1,1,DC,null,392WA,NONE
+2015,9,southsouth,6,null,14,IL,S,FRAAME,6.75,1,I,null,394WA,NONE
+2015,9,southsouth,6,null,15,IL,S,ACESAC,3.5,1,I,null,null,NONE
+2015,9,southsouth,6,null,16,IL,S,FRAAME,19.7,1,DC,null,307WA,NONE
+2015,9,southsouth,6,null,17,IL,S,FRAAME,10.05,1,DC,null,557WA,NONE
+2015,9,southsouth,7,null,18,IL,S,JUGNIG,5.1,1,O,null,337BW,NONE
+2015,9,southsouth,7,null,19,IL,S,ACENEG,2.8,1,O,null,small dead stem,NONE
+2015,9,southsouth,7,null,20.1,IL,M,ACERUB,8.7,2,DC,null,loose bark,NA
+2015,9,southsouth,7,null,20.2,IL,M,ACERUB,3.1,2,DC,null,loose bark,NA
+2015,9,southsouth,7,null,20.3,IL,M,ACERUB,3.55,2,DC,null,loose bark,NA
+2015,9,southsouth,7,null,20.4,IL,M,ACERUB,2.75,2,DC,null,loose bark,NA
+2015,9,southsouth,8,null,21.1,IL,M,JUGNIG,11.8,1,DC,null,335BW,NONE
+2015,9,southsouth,8,null,21.2,IL,M,JUGNIG,7.3,1,DC,null,335BW,NONE
+2015,9,southsouth,8,null,22,IL,S,FRAAME,8.5,1,DC,null,null,NONE
+2015,9,southsouth,9,null,23,IL,S,FRAAME,4.3,1,I,null,null,NONE
+2015,9,southsouth,9,null,24,IL,S,FRAAME,4.65,1,I,null,null,NONE
+2015,9,southsouth,9,null,25,IL,S,FRAAME,6.2,1,DC,null,null,NONE
+2015,9,southsouth,9,null,26,IL,S,FRAAME,3.3,1,I,null,702WA,NONE
+2015,9,southsouth,10,null,27.1,IL,M,FRAAME,14.9,1,DC,null,308WA,NONE
+2015,9,southsouth,10,null,27.2,IL,M,FRAAME,13.45,1,DC,null,308WA,NONE
+2015,9,southsouth,10,null,28.1,IL,M,ACEGIN,3.3,1,I,null,null,NONE
+2015,9,southsouth,10,null,28.2,IL,M,ACEGIN,3.3,1,I,null,null,NONE
+2015,9,southsouth,10,null,28.3,IL,M,ACEGIN,3.65,1,I,null,null,NONE
+2015,9,southsouth,10,null,29,IL,S,ACEGIN,5.5,1,I,null,null,NONE
+2015,9,southsouth,10,null,30,IL,S,JUGNIG,4.75,1,I,null,336BW,NONE
+2015,9,southsouth,11,null,31,IL,S,FRAAME,6.5,1,I,null,563WA,NONE
+2015,9,southsouth,11,null,32.1,IL,M,ACERUB,8.9,1,DC,null,42RM,NA
+2015,9,southsouth,11,null,32.2,IL,M,ACERUB,6.9,1,DC,null,42RM,NA
+2015,9,southsouth,11,null,32.3,IL,M,ACERUB,3.15,1,DC,null,42RM,NA
+2015,9,southsouth,11,null,33.1,IL,M,ACERUB,6.6,1,DC,null,34RM,NONE
+2015,9,southsouth,11,null,33.2,IL,M,ACERUB,8.8,1,DC,null,34RM,NONE
+2015,9,southsouth,11,null,33.3,IL,M,ACERUB,3.05,1,DC,null,34RM,NONE
+2015,9,southsouth,12,null,34,IL,S,FRAAME,11.2,1,DC,null,499WA,NONE
+2015,9,southsouth,12,null,35,IL,S,FRAAME,3.7,1,I,null,null,NONE
+2015,9,southsouth,12,null,36,IL,S,ACENEG,3.5,1,I,null,null,NONE
+2015,9,southsouth,12,null,37,IL,S,FRAAME,16.6,1,DC,null,null,NONE
+2015,9,southsouth,14,null,38,IL,S,FRAAME,12.5,1,O,null,311WA,NONE
+2015,9,southsouth,14,null,39,IL,S,FRAAME,4,1,I,null,567WA,NONE
+2015,9,southsouth,15,null,40,IL,S,FRAAME,5,1,I,null,560WA,NONE
+2015,9,southsouth,15,null,41,IL,S,FRAAME,4.5,1,I,null,null,NONE
+2015,9,southsouth,15,null,42,IL,S,FRAAME,2.9,1,O,null,703WA,NONE
+2015,9,southsouth,15,null,43,IL,S,FRAAME,2.7,1,O,null,null,NONE
+2015,9,southsouth,15,null,44,IL,S,FRAAME,7.05,1,DC,null,566WA,NONE
+2015,9,southsouth,15,null,45,IL,S,FRAAME,3.85,1,I,null,553WA,NONE
+2015,9,southsouth,15,null,46,IL,S,FRAAME,4.5,1,I,null,569WA,NONE
+2015,9,southsouth,15,null,47,IL,S,FRAAME,4.85,1,I,null,568WA,NONE
+2015,9,southsouth,15,null,48,IL,S,FRAAME,3.5,1,I,null,570WA,NONE
+2015,9,southsouth,15,null,49,IL,S,FRAAME,3.45,1,I,null,559WA,NONE
+2015,9,southsouth,15,null,50,IL,S,FRAAME,10.5,1,DC,null,564WA,NONE
+2015,9,southsouth,15,null,51,IL,S,FRAAME,6.5,1,I,null,565WA,NONE
+2015,9,southsouth,15,null,52,IL,S,FRAAME,2.8,1,O,null,null,NONE
+2015,9,southsouth,16,null,53,IL,S,FRAAME,3.4,1,O,null,null,NONE
+2015,9,southsouth,16,null,54.1,IL,M,ACERUB,10.25,1,DC,null,26RM,NONE
+2015,9,southsouth,16,null,54.2,IL,M,ACERUB,9,1,DC,null,26RM,NONE
+2015,9,southsouth,16,null,55,IL,S,FRAAME,5.75,1,I,null,586WA,NONE
+2015,9,southsouth,16,null,56,IL,S,FRAAME,10.55,1,DC,null,null,NONE
+2015,9,southsouth,16,null,57,IL,S,FRAAME,4,1,O,null,loose bark,NA
